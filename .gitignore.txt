@@ -1,0 +1,3 @@
+gizli.txt
+.dea/
+gereksiz.txt
